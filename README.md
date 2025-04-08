@@ -16,6 +16,9 @@ Cada OS possui: n°, data de emissão, um valor, status e uma data para conclus�
 
 ![image](https://github.com/user-attachments/assets/9c268a11-181a-49c7-a767-835176738f09)
 
+![image](https://github.com/user-attachments/assets/b4728961-7292-42a6-ba96-40c5c9fa2e69)
+
+
 ## Entidades e Atributos
 
 1. Cliente:
