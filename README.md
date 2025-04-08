@@ -14,6 +14,8 @@ A mesma equipe avalia e executa os serviços
 Os mecânicos possuem código, nome, endereço e especialidade
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
+![image](https://github.com/user-attachments/assets/9c268a11-181a-49c7-a767-835176738f09)
+
 ## Entidades e Atributos
 
 1. Cliente:
@@ -91,4 +93,3 @@ Cada OS possui: n°, data de emissão, um valor, status e uma data para conclus�
 - Uma Ordem_de_Servico utiliza muitas Item_Peca_OS (peças). (Um-para-Muitos)
 - Uma Peca pode ser utilizada em muitas Ordem_de_Servicos através de Item_Peca_OS. (Muitos-para-Muitos, resolvido com a entidade Item_Peca_OS)
 
-  ![image](https://github.com/user-attachments/assets/1815e915-db59-4e70-b0fe-9cd638e62356)
